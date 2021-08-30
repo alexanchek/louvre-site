@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/louvre-site/static/css/main.d9145d0c.chunk.css",
-    "main.js": "/louvre-site/static/js/main.84464339.chunk.js",
-    "main.js.map": "/louvre-site/static/js/main.84464339.chunk.js.map",
+    "main.css": "/louvre-site/static/css/main.e2d4a1c7.chunk.css",
+    "main.js": "/louvre-site/static/js/main.e7b7b0c2.chunk.js",
+    "main.js.map": "/louvre-site/static/js/main.e7b7b0c2.chunk.js.map",
     "runtime-main.js": "/louvre-site/static/js/runtime-main.e9be37f7.js",
     "runtime-main.js.map": "/louvre-site/static/js/runtime-main.e9be37f7.js.map",
     "static/css/2.818011ed.chunk.css": "/louvre-site/static/css/2.818011ed.chunk.css",
-    "static/js/2.33f86f8a.chunk.js": "/louvre-site/static/js/2.33f86f8a.chunk.js",
-    "static/js/2.33f86f8a.chunk.js.map": "/louvre-site/static/js/2.33f86f8a.chunk.js.map",
+    "static/js/2.09e1f33c.chunk.js": "/louvre-site/static/js/2.09e1f33c.chunk.js",
+    "static/js/2.09e1f33c.chunk.js.map": "/louvre-site/static/js/2.09e1f33c.chunk.js.map",
     "index.html": "/louvre-site/index.html",
     "static/css/2.818011ed.chunk.css.map": "/louvre-site/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.d9145d0c.chunk.css.map": "/louvre-site/static/css/main.d9145d0c.chunk.css.map",
-    "static/js/2.33f86f8a.chunk.js.LICENSE.txt": "/louvre-site/static/js/2.33f86f8a.chunk.js.LICENSE.txt",
+    "static/css/main.e2d4a1c7.chunk.css.map": "/louvre-site/static/css/main.e2d4a1c7.chunk.css.map",
+    "static/js/2.09e1f33c.chunk.js.LICENSE.txt": "/louvre-site/static/js/2.09e1f33c.chunk.js.LICENSE.txt",
     "static/media/bg.scss": "/louvre-site/static/media/bg.2e148284.png",
     "static/media/buy-tickets-image.0f505b8a.png": "/louvre-site/static/media/buy-tickets-image.0f505b8a.png",
     "static/media/fonts.css": "/louvre-site/static/media/roboto-v27-latin-regular.9b78ea3b.woff",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.e9be37f7.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.33f86f8a.chunk.js",
-    "static/css/main.d9145d0c.chunk.css",
-    "static/js/main.84464339.chunk.js"
+    "static/js/2.09e1f33c.chunk.js",
+    "static/css/main.e2d4a1c7.chunk.css",
+    "static/js/main.e7b7b0c2.chunk.js"
   ]
 }
